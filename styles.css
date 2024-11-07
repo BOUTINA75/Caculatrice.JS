@@ -1,0 +1,32 @@
+div {
+    display: flex;
+    justify-content: center;
+}
+.calculatrice {
+    background-color: gray;
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+}
+select {
+    width: 30px;
+}
+
+
+/* body {
+	text-align: center;
+}
+
+section {
+	width: 60%;
+	background-color: grey;
+	padding: 20px;
+	margin: auto;
+	visibility: hidden;
+}
+
+a, span {
+	cursor: pointer;
+} */
